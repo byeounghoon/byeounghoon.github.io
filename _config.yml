@@ -15,11 +15,11 @@
 minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "ko-KR"
+locale                   : "en-US"
 title                    : "병훈쓰 블로그"
 title_separator          : "-"
 subtitle                 : "" # site tagline that appears below site title in masthead
-name                     : "병훈"
+name                     : "ByoungHoon Yun"
 description              : "iOS Developer, Swift😘"
 url                      : "https://byeounghoon.github.io" 
 baseurl                  : ""
