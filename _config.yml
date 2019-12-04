@@ -111,11 +111,11 @@ author:
   avatar           : "/assets/images/avatar.jpeg"
   bio              : "iOS Developer, Swift😘"
   location         : "서울, 대한민국"
-  email            : futurum87@gmail.com
+  email            : # futurum87@gmail.com
   links:
-    - label: "Email"
+    - label: "futurum87@gmail.com"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:futurum87@gmail.com
+      url: mailto:futurum87@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -124,7 +124,7 @@ author:
       # url: "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: "https://www.facebook.com/aduooo"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/byeounghoon"
